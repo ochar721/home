@@ -5,4 +5,6 @@ require './lib/apartment'
 require './lib/renter'
 
 class BuildingTest < Minitest::Test
+
+  
 end
